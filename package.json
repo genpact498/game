@@ -4,7 +4,7 @@
   "description": "Writing a game",
   "main": "index.js",
   "dependencies": {
-    "electron": "^5.0.7",
+    "electron": "^13.6.6",
     "npm": "^6.10.1"
   },
   "devDependencies": {},
